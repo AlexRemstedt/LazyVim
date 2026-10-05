@@ -6,6 +6,7 @@ vim.filetype.add({
 return {
   {
     "dont-be-evil-company/kulala.nvim",
+    version = "5.3.4",
     ft = "http",
     keys = {
       { "<leader>R", "", desc = "+Rest" },
